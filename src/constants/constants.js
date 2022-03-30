@@ -33,5 +33,21 @@ export const projects = [
     visit: 'https://react-meetup-vikas-rai.vercel.app/',
     id: 3,
   },
+   {
+    title: 'Github User Finder App,
+    description: "Using React, Next.js, Tailwind CSS and Github API , I developed a Github User Finder Application.",
+    image: '/images/5.png',
+    tags: ['React.js', 'Next.js', 'Tailwind CSS','Github API'],
+    visit: 'https://developerstuffs.com/',
+    id: 4,
+  },
+     {
+    title: 'Metaverse App',
+    description: "Using React, Next.js, Tailwind CSS and Moralis Web3.0 , I developed a Web3.0 Metaverse Social App where you can chat with other people. .",
+    image: '/images/6.png',
+    tags: ['React.js', 'Next.js', 'Tailwind CSS','Web 3.0' ,'Moralis'],
+    visit: 'https://metaverse-app-vikas-rai.vercel.app/',
+    id: 5,
+  },
 ];
 
