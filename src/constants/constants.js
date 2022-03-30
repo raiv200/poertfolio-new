@@ -34,7 +34,7 @@ export const projects = [
     id: 3,
   },
    {
-    title: 'Github User Finder App,
+    title: 'Github User Finder App',
     description: "Using React, Next.js, Tailwind CSS and Github API , I developed a Github User Finder Application.",
     image: '/images/5.jpg',
     tags: ['React.js', 'Next.js', 'Tailwind CSS','Github API'],
